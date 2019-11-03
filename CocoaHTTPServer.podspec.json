@@ -12,6 +12,7 @@
     "tag": "2.3"
   },
   "source_files": "{Core,Extensions}/**/*.{h,m}",
+  "private_header_files": "Core/HTTPLogging.h",
   "requires_arc": true,
   "platforms": {
     "ios": "5.0",
